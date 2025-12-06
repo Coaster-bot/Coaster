@@ -12,13 +12,16 @@ pkg install nodejs git ffmpeg imagemagick wget -y
 
 
 
-
-git clone https://github.com/coaster-bot/coaster 
-
+git clone https://github.com/coaster-bot/ultimate-bot.git
 
 
 
-cd coaster-bot
+cd ultimate-bot
+
+
+
+
+
 
 
 
